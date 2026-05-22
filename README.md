@@ -184,37 +184,3 @@ through ADO.NET SqlClient integration.
 
 # Project Structure
 
-```text
-HealthTrackerSystem/
-│
-├── CODE/
-│   ├── BMIForm.vb
-│   ├── Dashboard.vb
-│   ├── DailyAssessmentForm.vb
-│   ├── HistoryForm.vb
-│   ├── LoginForm.vb
-│   ├── RegisterForm.vb
-│   ├── SymptomsForm.vb
-│   ├── HealthLogic.vb
-│   └── ProjectSolution.sln
-│
-├── DATABASE/
-│   ├── HealthTrackerDataBase.mdf
-│   └── HealthTrackerDataBase.ldf
-│
-├── DOCUMENTATION/
-│   ├── SDAD_Group7.pdf
-│   ├── DFD_Level0.png
-│   ├── DFD_Level1.png
-│   └── ERD.png
-│
-├── REPORTS/
-│   ├── Create_Account_Report.pdf
-│   ├── Login_Report.pdf
-│   ├── BMI_Calculation_Report.pdf
-│   ├── Daily_Assessment_Report.pdf
-│   ├── Symptoms_Checker_Report.pdf
-│   └── History_Report.pdf
-│
-├── .gitignore
-└── README.md
