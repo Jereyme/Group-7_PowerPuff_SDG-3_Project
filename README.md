@@ -180,7 +180,5 @@ The system performs:
 
 through ADO.NET SqlClient integration.
 
----
 
-# Project Structure
 
